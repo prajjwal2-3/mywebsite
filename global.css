@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* border radiuses */
+  --br-57xl: 76px;
+}
